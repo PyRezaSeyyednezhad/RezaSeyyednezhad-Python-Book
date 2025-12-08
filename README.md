@@ -42,7 +42,7 @@ Comprehensive-Python-Programming-Learning/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Reza-Seyyednezhad/Comprehensive-Python-Programming-Learning.git
+git clone https://github.com/PyRezaSeyyednezhad/Comprehensive-Python-Programming-Learning.git
 ```
 
 ### 2. (Optional) Install dependencies
@@ -117,7 +117,7 @@ Comprehensive-Python-Programming-Learning/
 ### ۱. کلون کردن مخزن
 
 ```bash
-git clone https://github.com/Reza-Seyyednezhad/Comprehensive-Python-Programming-Learning.git
+git clone https://github.com/PyRezaSeyyednezhad/Comprehensive-Python-Programming-Learning.git
 ```
 
 ### ۲. (اختیاری) نصب پیش‌نیازها
@@ -159,6 +159,7 @@ python example01.py
 ---
 
 ⭐ **Thank you for visiting the repository!**
+
 
 
 
